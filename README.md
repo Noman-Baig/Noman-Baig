@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Noman-Baig
-- Currently working with React JS , React Native , Node JS , PHP , Python , laravel , javaScript , Html , Css , Dart , Fultter ...
+- Hi, I’m Mirza Nouman Baig
+- Currently working with React JS , React Native , Node JS , PHP , Python , laravel , javaScript , Swift , Java , Dart , Fultter , Kotlin ...
 - Looking to collaborate on Unique Projects ...
-- Contact: +923048177588.
+- For Queries, Contact: +97165192804
 
 
